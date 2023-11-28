@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_display|SchDesignator=U_display|FileName=display.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=display.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_micro|SchDesignator=U_micro|FileName=micro.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=micro.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_power|SchDesignator=U_power|FileName=power.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
